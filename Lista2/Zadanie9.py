@@ -1,1 +1,4 @@
-#To zadanie w ogóle nie działało, więc nawet nie zaczynałem pisać po raz drugi
+import itertools
+a = [[2,4,3],[1,5,6],[9],[7,9,0]]
+a = list(itertools.chain(*a))
+

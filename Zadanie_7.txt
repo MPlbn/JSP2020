@@ -1,1 +1,0 @@
-Zmienna '_' służy do przechowywania najświeższego wyniku w trybie interaktywnym (przykład w zdjęciu)

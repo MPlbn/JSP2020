@@ -1,0 +1,1 @@
+Komenda round() zaokrągla liczby również po przecinku, a komenda math.floor() zaokrągla w dół do najbliższej liczby całkowitej

@@ -10,5 +10,5 @@ while i<x:
     i +=1
 print(a)
         
-
+#To nie działa i nie potrafię sobie przypomnieć jak to zrobiłem wcześniej, że działało
         

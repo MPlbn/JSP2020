@@ -1,10 +1,9 @@
 def silnia(n):
-    x = list(range(1, int(n)+1))
     y = 1
-    for i in x:
+    for i in range(1, n+1):
         y *= i
     print(y)
         
         
-a = input('Wprowadz liczbe "n": ')
+a = int(input('Wprowadz liczbe "n": '))
 silnia(a)

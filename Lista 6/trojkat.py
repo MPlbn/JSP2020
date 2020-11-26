@@ -9,9 +9,9 @@ def pole(a,b,c):
     return wynik
 
 def bok_typ(a,b,c):
-    if (a == b and b == c and a == c):
+    if (a == b == c):
         x = 'Trojkat jest rownoboczny!'
-    elif ((a == b and b != c and a != c) or (a != b and b == c and a != c) or (a != b and b != c and a == c)):
+    elif ((a == b) or (b == c) or (a == c)):
         x = 'Trojkat jest rownoramienny'
     else:
         x = 'Trojkat jest roznoboczny'
